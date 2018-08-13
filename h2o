@@ -1,0 +1,12 @@
+H2o library is used which connects to the cluster .All the calculation happen on the clusters.
+H2o handles billions of data segments in-memory, even with a little gathering. To make it less complex for non-designers to make complete
+informative work procedures, H2O's stage joins interfaces for R, Python, Scala, Java, JSON, and JavaScript, and also an inalienable 
+web interface, Flow.H2O was worked close by (and on top of) Hadoop and Start Bunches and consistently passes on inside minutes. H2O 
+incorporates numerous machine learning algorithm, such as generalized linear modeling (linear regression, logistic regression, etc.),
+Naïve Bayes, principal components analysis, time series, k-means clustering, and others H2O additionally implements best-in-class 
+algorithm at scale, such as Random Forest, Gradient Boosting and Deep Learning. Customers can build thousands of models and compare 
+the results to get the best predictions . Some Features of H2O 
+a) It is a scalable in-memory platform for machine learning. 
+b) It is free and open source. 
+c) It is cross-platform and supports R, Python, Scala, and Java. 
+d) Last but not least, it has a dedicated team of developers continually making 
