@@ -2,7 +2,6 @@ library(png)
 library(colorspace)
 library(R.utils)
 
-# modification of https://gist.github.com/brendano/39760
 # automatically obtains data from the web
 # creates two data frames, test and train
 # labels are stored in the y variables of each data frame
